@@ -1,0 +1,10 @@
+# Compiled pybind11 extension (built locally via build_cpp.py)
+IiwaIKCpp*.so
+
+# CMake build tree for the standalone C++ example
+build/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.claude/
